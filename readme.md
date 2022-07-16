@@ -10,4 +10,7 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
+After clonin the repo, run 'docker-compose up' commend from the root of the project directory.
+To check if everything is up and running, proceed to http://localhost:3000/api/ping for backand reply. After that, proceed to http://localhost:3001/register for frontend healthcheck.
+
 **[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
